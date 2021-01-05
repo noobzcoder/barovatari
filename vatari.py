@@ -1,6 +1,7 @@
 import os
 
 def menu():
+clear
 
     print(""" 
 
