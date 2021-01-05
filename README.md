@@ -1,25 +1,25 @@
 # barovatari
 Is a tool install for termux only
 ## Features 
-1. Install Nmap 
-2. Install Hydra
-3. Install SQLMap
-4. Install Metasploit
-5. Install ngrok
-6. Install Kali Nethunter
-7. Install angryFuzzer
-8. Install Red_Hawk
-9. Install Weeman
-10. Install IPGeoLocation
-11. Install Cupp
-12. Instagram Bruteforcer (instahack)
-13. Twitter Bruteforcer   (TwitterSniper)
-14. Install Ubuntu
-15. Install Fedora
-16. Install viSQL
-17. Install Hash-Buster
-18. Install D-TECT
-19. Install routersploit
+* Install Nmap 
+* Install Hydra
+* Install SQLMap
+* Install Metasploit
+* Install ngrok
+* Install Kali Nethunter
+* Install angryFuzzer
+* Install Red_Hawk
+* Install Weeman
+* Install IPGeoLocation
+* Install Cupp
+* Instagram Bruteforcer (instahack)
+* Twitter Bruteforcer   (TwitterSniper)
+* Install Ubuntu
+* Install Fedora
+* Install viSQL
+* Install Hash-Buster
+* Install D-TECT
+* Install routersploit
 
 ![giphy (1)](https://user-images.githubusercontent.com/76752507/103382929-1563e300-4b1b-11eb-9ab4-02403e2113a0.gif)
 
